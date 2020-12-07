@@ -1,5 +1,5 @@
  
- A passionate software developer from Kenya.
+ I'm Brian, a passionate software developer from Kenya.
  
 ![](https://komarev.com/ghpvc/?username=tribeless&color=brightgreen)
 
